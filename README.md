@@ -11,3 +11,18 @@ Espero este pequeño proyecto sea de su agrado.
 
 Ojo, cabe destacar que mi perfi de github estará vacío porque no solía utilizar esta cuenta para dichos proyectos,
 solian manejarlos los mas pros. y sus repos son privados. asi que disculpen mi falta de contenido.
+
+
+Pienso hacer algo tipo una pequeña app, que consuma un api publico.
+
+se que mencioné algo sobre un app de inventario. peroq como dijeron entre el ayer y hoy podimos entregarlo me apresuraré lo maximo posible.
+
+requerimientos
+
+tener instalado 
+
+comandos para la ejecucion del proyecto
+
+npm install
+
+npm run dev
