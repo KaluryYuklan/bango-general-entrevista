@@ -17,4 +17,12 @@ Pienso hacer algo tipo una pequeña app, que consuma un api publico.
 
 se que mencioné algo sobre un app de inventario. peroq como dijeron entre el ayer y hoy podimos entregarlo me apresuraré lo maximo posible.
 
-git commit -m "feat: creacion de los primeros elementos basicos."
+requerimientos
+
+tener instalado 
+
+comandos para la ejecucion del proyecto
+
+npm install
+
+npm run dev
