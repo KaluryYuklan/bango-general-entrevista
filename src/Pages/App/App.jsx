@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Spinner from '../Components/Spinner/Spinner';
+import Spinner from '../../Components/Spinner/Spinner';
 
 const App = () => {
   const [datos, setDatos] = useState(null);

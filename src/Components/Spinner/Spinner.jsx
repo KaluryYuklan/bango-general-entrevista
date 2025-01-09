@@ -7,6 +7,6 @@ const Spinner = () => (
     <div className="spinner"></div>
   </div>
 );
-// 61969442
+
 
 export default Spinner;
